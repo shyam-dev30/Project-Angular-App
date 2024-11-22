@@ -49,5 +49,6 @@ sudo mysql -h database-1.cxqukacgq5pj.us-east-1.rds.amazonaws.com -u Angular-db 
 show databases;
 use springbackend;
 show tables;
+desc tbl_workers;
 select * from tbl_workers;
 ```
