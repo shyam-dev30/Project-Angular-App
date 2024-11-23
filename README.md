@@ -26,6 +26,7 @@ sudo apt update
 sudo apt install mariadb-server
 sudo systemctl start mariadb
 sudo systemctl enable mariadb
+sudo systemctl status mariadb
 
 
 ```
