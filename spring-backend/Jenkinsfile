@@ -4,7 +4,7 @@ pipeline{
     stage('build'){
       steps{
         sh'''
-        echo "building the pipelince successfully 1st.     jjbj" 
+        echo "building the pipelince successfully 2nd pipeline " 
         '''
       }
     }
